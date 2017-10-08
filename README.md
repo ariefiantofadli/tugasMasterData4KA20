@@ -13,4 +13,5 @@ Buat folder baru di dalam folder Projects dengan nama WindowsFormsApplication4, 
 D:\Documents\Visual Studio 2017\Projects\WindowsFormApplication4
 
 Buka CMD dengan direktori di atas, kemudian ketikkan perintah berikut:
+
 git clone https://github.com/fadlibotax/tugasMasterData4KA20.git
